@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Beryl Core
+Comment=Beryl P2P Cryptocurrency
+Comment[de]=Verbinde mit dem Beryl peer-to-peer Netzwerk
+Comment[fr]=Beryl, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Beryl, eşten eşe kriptografik sanal para birimi
+Exec=beryl-qt %u
+Terminal=false
+Type=Application
+Icon=beryl128
+MimeType=x-scheme-handler/beryl;
+Categories=Office;Finance;
